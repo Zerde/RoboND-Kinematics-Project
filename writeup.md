@@ -13,7 +13,7 @@
 
 [//]: # "Image References"
 
-[image4]: ./misc_images/misc4.jpg
+[image4]: ./misc_images/misc4.JPG
 [image5]: ./misc_images/misc5.jpg
 [image6]: ./misc_images/misc6.jpg
 [equation1]: ./misc_images/eq1.png
